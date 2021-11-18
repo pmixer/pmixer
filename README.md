@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm an R&D engineer.
+
+From research prospective, I work on how to make current models better with optimized initializers and optimizers, and how to make better models guided by fine-grained evaluation methods, hinted by model attacking experiments.
+
+From engineering prospective, I work on software and hardware to better serve these models with lower cost and higher thoughput, and collaborate with teammates to make use of these products to really serve humankind as much as possible.
+
 <!--
 **pmixer/pmixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
