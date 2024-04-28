@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an R&D engineer. Who enjoys the life by understanding things, and earns a living by making them faster.
+I'm an R&D engineer, who enjoys the life by understanding how things work, and earns a living by making something faster.
 
 From research prospective, I work on how to make current models better with optimized initializers and optimizers, and how to make better models guided by fine-grained evaluation methods, hinted by model attacking experiments.
 
