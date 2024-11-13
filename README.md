@@ -6,6 +6,9 @@ From research prospective, I work on how to make current models better with opti
 
 From engineering prospective, I work on software and hardware to better serve these models with lower cost and higher thoughput, and collaborate with teammates to make use of these products to really serve humankind as much as possible.
 
+- 🔭 I’m working on accelerating recommender systems.
+- 📫 Pls send me your CV on Linkedin if looking for employee referral.
+
 <!--
 **pmixer/pmixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
